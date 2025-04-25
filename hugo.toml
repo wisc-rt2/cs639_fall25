@@ -1,0 +1,5 @@
+baseURL = 'https://wisc-rt2.github.io/cs639_fall25/'
+languageCode = 'en-us'
+title = "CS639 Introduction to Robotic Systems"
+theme = "hugo-book"
+publishDir = "docs"
