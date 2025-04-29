@@ -3,3 +3,8 @@ languageCode = 'en-us'
 title = "CS639 Introduction to Robotic Systems"
 theme = "hugo-book"
 publishDir = "docs"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
