@@ -1,25 +1,201 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Docs on CS639 Introduction to Robotic Systems</title>
-    <link>http://localhost:1313/cs639_fall25/docs/</link>
-    <description>Recent content in Docs on CS639 Introduction to Robotic Systems</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <atom:link href="http://localhost:1313/cs639_fall25/docs/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Syllabus</title>
-      <link>http://localhost:1313/cs639_fall25/docs/syllabus/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/cs639_fall25/docs/syllabus/</guid>
-      <description>&lt;h1 id=&#34;syllabus&#34;&gt;&#xA;  Syllabus&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#syllabus&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto; border: 2px solid #8E1E24; border-radius: 8px;&#34;&gt;&#xA;    &lt;iframe src=&#34;https://docs.google.com/document/d/e/2PACX-1vTulXe5WoT27izojEb9VAdKMueaU_yPjLd85uH2uNiWlbnhT-oW_EmCMBU6PUtNOg/pub?embedded=true&#34; &#xA;            style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: none; border-radius: 8px;&#34; &#xA;            frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;&#xA;&lt;/div&gt;&#xA;&lt;br&gt;&#xA;&lt;a href=&#34;https://docs.google.com/document/d/1GKTl9HBAv75c15M3w8sK2V1KSGoZVNce/edit?usp=sharing&amp;ouid=117057397798946903044&amp;rtpof=true&amp;sd=true&#34;&gt;Link to syllabus.&lt;/a&gt;</description>
-    </item>
-    <item>
-      <title>Schedule</title>
-      <link>http://localhost:1313/cs639_fall25/docs/schedule/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/cs639_fall25/docs/schedule/</guid>
-      <description>&lt;h1 id=&#34;schedule&#34;&gt;&#xA;  Schedule&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#schedule&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;* Note: Here is the plan for the semster. Schedule is tentative and subject to change.&lt;/p&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th&gt;Date&lt;/th&gt;&#xA;          &lt;th&gt;Lecture&lt;/th&gt;&#xA;          &lt;th&gt;Resources&lt;/th&gt;&#xA;          &lt;th&gt;Notes&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Thu, 9/4&lt;/td&gt;&#xA;          &lt;td&gt;1: Course Overview and ‘What is a Robot’&lt;/td&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Tue, 9/9&lt;/td&gt;&#xA;          &lt;td&gt;2: Mechanism and Configuration Spaces&lt;/td&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Thu, 9/11&lt;/td&gt;&#xA;          &lt;td&gt;3: Rigid Body Motion - 2D and Rotation Matrices&lt;/td&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;          &lt;td&gt;HW1 Released&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Tue, 9/16&lt;/td&gt;&#xA;          &lt;td&gt;4: Rigid Body Motion (3D) - Euler Angles, Axis-Angle, and Quaternions&lt;/td&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Thu, 9/18&lt;/td&gt;&#xA;          &lt;td&gt;5: Rigid Body Motion (3D) - Transformations&lt;/td&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Tue, 9/23&lt;/td&gt;&#xA;          &lt;td&gt;6: Forward Kinematics and DH Parameters&lt;/td&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Thu, 9/25&lt;/td&gt;&#xA;          &lt;td&gt;7: Forward Kinematics&lt;/td&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;          &lt;td&gt;HW1 Due (5pm)&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Tue, 9/30&lt;/td&gt;&#xA;          &lt;td&gt;8: Forward Kinematics and URDFs&lt;/td&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;          &lt;td&gt;HW2 Released&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Thu, 10/2&lt;/td&gt;&#xA;          &lt;td&gt;9: Inverse Kinematics&lt;/td&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Tue, 10/7&lt;/td&gt;&#xA;          &lt;td&gt;10: Intro to Planning and Graph-based Methods&lt;/td&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Thu, 10/9&lt;/td&gt;&#xA;          &lt;td&gt;11: Sample-based Planning Methods&lt;/td&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Tue, 10/14&lt;/td&gt;&#xA;          &lt;td&gt;12: Sample-based Methods and Trajectory Optimization&lt;/td&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;          &lt;td&gt;HW2 Due&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Thu, 10/16&lt;/td&gt;&#xA;          &lt;td&gt;13: Trajectory Optimization&lt;/td&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;          &lt;td&gt;HW3 Released&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Tue, 10/21&lt;/td&gt;&#xA;          &lt;td&gt;14: Trajectory Optimization&lt;/td&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Thu, 10/23&lt;/td&gt;&#xA;          &lt;td&gt;15: Hierarchy and FSMs&lt;/td&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Tue, 10/28&lt;/td&gt;&#xA;          &lt;td&gt;16: State Estimation Fundamentals&lt;/td&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;          &lt;td&gt;HW3 Due&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Thu, 10/30&lt;/td&gt;&#xA;          &lt;td&gt;17: Bayes Filters&lt;/td&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;          &lt;td&gt;HW4 Released&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Tue, 11/4&lt;/td&gt;&#xA;          &lt;td&gt;18: Kalman Filters&lt;/td&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Thu, 11/6&lt;/td&gt;&#xA;          &lt;td&gt;19: Particle Filters&lt;/td&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Tue, 11/11&lt;/td&gt;&#xA;          &lt;td&gt;20: Perception 1&lt;/td&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Thu, 11/13&lt;/td&gt;&#xA;          &lt;td&gt;21: Perception 2&lt;/td&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;          &lt;td&gt;HW4 Due&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Tue, 11/18&lt;/td&gt;&#xA;          &lt;td&gt;22: Feedback Control Introduction&lt;/td&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;          &lt;td&gt;HW5 Released&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Thu, 11/20&lt;/td&gt;&#xA;          &lt;td&gt;23: PID Control&lt;/td&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Tue, 11/25&lt;/td&gt;&#xA;          &lt;td&gt;24: Modern Techniques – Diffusion and VLA Models&lt;/td&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Thu, 11/27&lt;/td&gt;&#xA;          &lt;td&gt;No Class. Happy Thanksgiving!&lt;/td&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Tue, 12/2&lt;/td&gt;&#xA;          &lt;td&gt;25: Foundation Models - Discussion&lt;/td&gt;&#xA;          &lt;td&gt;&lt;strong&gt;Flipped Class&lt;/strong&gt; – watch &lt;a href=&#34;https://shorturl.at/Kiexj&#34;&gt;this&lt;/a&gt; prior to class&lt;/td&gt;&#xA;          &lt;td&gt;HW5 Due&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Thu, 12/4&lt;/td&gt;&#xA;          &lt;td&gt;26: Guest Roboticist (TBD)&lt;/td&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Tue, 12/9&lt;/td&gt;&#xA;          &lt;td&gt;27: Final Project Presentations&lt;/td&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Thu, 12/16&lt;/td&gt;&#xA;          &lt;td&gt;Final Project Due&lt;/td&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Docs on CS639 Introduction to Robotic Systems</title><link>https://wisc-rt2.github.io/cs639_fall25/docs/</link><description>Recent content in Docs on CS639 Introduction to Robotic Systems</description><generator>Hugo</generator><language>en-us</language><atom:link href="https://wisc-rt2.github.io/cs639_fall25/docs/index.xml" rel="self" type="application/rss+xml"/><item><title>Syllabus</title><link>https://wisc-rt2.github.io/cs639_fall25/docs/syllabus/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wisc-rt2.github.io/cs639_fall25/docs/syllabus/</guid><description>&lt;h1 id="syllabus">
+ Syllabus
+ &lt;a class="anchor" href="#syllabus">#&lt;/a>
+&lt;/h1>
+&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto; border: 2px solid #8E1E24; border-radius: 8px;">
+ &lt;iframe src="https://docs.google.com/document/d/e/2PACX-1vTulXe5WoT27izojEb9VAdKMueaU_yPjLd85uH2uNiWlbnhT-oW_EmCMBU6PUtNOg/pub?embedded=true" 
+ style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: none; border-radius: 8px;" 
+ frameborder="0">&lt;/iframe>
+&lt;/div>
+&lt;br>
+&lt;a href="https://docs.google.com/document/d/1GKTl9HBAv75c15M3w8sK2V1KSGoZVNce/edit?usp=sharing&amp;ouid=117057397798946903044&amp;rtpof=true&amp;sd=true">Link to syllabus.&lt;/a></description></item><item><title>Schedule</title><link>https://wisc-rt2.github.io/cs639_fall25/docs/schedule/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wisc-rt2.github.io/cs639_fall25/docs/schedule/</guid><description>&lt;h1 id="schedule">
+ Schedule
+ &lt;a class="anchor" href="#schedule">#&lt;/a>
+&lt;/h1>
+&lt;p>* Note: Here is the plan for the semster. Schedule is tentative and subject to change.&lt;/p>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Date&lt;/th>
+ &lt;th>Lecture&lt;/th>
+ &lt;th>Resources&lt;/th>
+ &lt;th>Notes&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>Thu, 9/4&lt;/td>
+ &lt;td>1: Course Overview and ‘What is a Robot’&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Tue, 9/9&lt;/td>
+ &lt;td>2: Mechanism and Configuration Spaces&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Thu, 9/11&lt;/td>
+ &lt;td>3: Rigid Body Motion - 2D and Rotation Matrices&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>HW1 Released&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Tue, 9/16&lt;/td>
+ &lt;td>4: Rigid Body Motion (3D) - Euler Angles, Axis-Angle, and Quaternions&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Thu, 9/18&lt;/td>
+ &lt;td>5: Rigid Body Motion (3D) - Transformations&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Tue, 9/23&lt;/td>
+ &lt;td>6: Forward Kinematics and DH Parameters&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Thu, 9/25&lt;/td>
+ &lt;td>7: Forward Kinematics&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>HW1 Due (5pm)&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Tue, 9/30&lt;/td>
+ &lt;td>8: Forward Kinematics and URDFs&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>HW2 Released&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Thu, 10/2&lt;/td>
+ &lt;td>9: Inverse Kinematics&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Tue, 10/7&lt;/td>
+ &lt;td>10: Intro to Planning and Graph-based Methods&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Thu, 10/9&lt;/td>
+ &lt;td>11: Sample-based Planning Methods&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Tue, 10/14&lt;/td>
+ &lt;td>12: Sample-based Methods and Trajectory Optimization&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>HW2 Due&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Thu, 10/16&lt;/td>
+ &lt;td>13: Trajectory Optimization&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>HW3 Released&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Tue, 10/21&lt;/td>
+ &lt;td>14: Trajectory Optimization&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Thu, 10/23&lt;/td>
+ &lt;td>15: Hierarchy and FSMs&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>Final Project Released&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Tue, 10/28&lt;/td>
+ &lt;td>16: State Estimation Fundamentals&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>HW3 Due&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Thu, 10/30&lt;/td>
+ &lt;td>17: Bayes Filters&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>HW4 Released&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Tue, 11/4&lt;/td>
+ &lt;td>18: Kalman Filters&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Thu, 11/6&lt;/td>
+ &lt;td>19: Particle Filters&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>Project Proposal Due&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Tue, 11/11&lt;/td>
+ &lt;td>20: Perception 1&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Thu, 11/13&lt;/td>
+ &lt;td>21: Perception 2&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>HW4 Due&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Tue, 11/18&lt;/td>
+ &lt;td>22: Feedback Control Introduction&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>HW5 Released&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Thu, 11/20&lt;/td>
+ &lt;td>23: PID Control&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Tue, 11/25&lt;/td>
+ &lt;td>24: Modern Techniques – Diffusion and VLA Models&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Thu, 11/27&lt;/td>
+ &lt;td>No Class. Happy Thanksgiving!&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Tue, 12/2&lt;/td>
+ &lt;td>25: Foundation Models - Discussion&lt;/td>
+ &lt;td>&lt;strong>Flipped Class&lt;/strong> – watch &lt;a href="https://shorturl.at/Kiexj">this&lt;/a> prior to class&lt;/td>
+ &lt;td>HW5 Due&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Thu, 12/4&lt;/td>
+ &lt;td>26: Guest Roboticist (TBD)&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Tue, 12/9&lt;/td>
+ &lt;td>27: Final Project Presentations&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Thu, 12/16&lt;/td>
+ &lt;td>Final Project Due&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table></description></item></channel></rss>
