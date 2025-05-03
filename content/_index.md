@@ -1,7 +1,6 @@
 # CS 639: Introduction to Robotic Systems (**Fall 2025**)
-
 <video autoplay loop muted playsinline style="max-width: 100%; height: auto;">
-  <source src="/cs639_fall25/website_videos.mp4" type="video/mp4">
+  <source src="/cs639_fall25/cs639_website_videos.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
@@ -59,11 +58,10 @@ You are also welcome to come to office hours for individual discussion.
 
 ## Grading
 
-Grading will be based on (tentative, subject to change):
+Grading will be based on:
 
-- Class Participation: 10%
-- Reading Responses: 10%
-- Programming Assignments: 40%
-- Midterm Exam: 20%
+- Participation (e.g., polls, responses, feedback): 5%
+- Programming Assignments: 50%
+- Midterm Exam: 25%
 - Final Project: 20%
 

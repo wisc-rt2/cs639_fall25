@@ -25,11 +25,11 @@ weight: 2
 | Tue, 10/14  | 12: Sample-based Methods and Trajectory Optimization  |           | HW2 Due                               |
 | Thu, 10/16  | 13: Trajectory Optimization                           |           | HW3 Released                          |
 | Tue, 10/21  | 14: Trajectory Optimization                           |           |                                       |
-| Thu, 10/23  | 15: Hierarchy and FSMs                                |           |                                       |
+| Thu, 10/23  | 15: Hierarchy and FSMs                                |           | Final Project Released                |
 | Tue, 10/28  | 16: State Estimation Fundamentals                     |           | HW3 Due                               |
 | Thu, 10/30  | 17: Bayes Filters                                     |           | HW4 Released                          |
 | Tue, 11/4   | 18: Kalman Filters                                    |           |                                       |
-| Thu, 11/6   | 19: Particle Filters                                  |           |                                       |
+| Thu, 11/6   | 19: Particle Filters                                  |           | Project Proposal Due                  |
 | Tue, 11/11  | 20: Perception 1                                      |           |                                       |
 | Thu, 11/13  | 21: Perception 2                                      |           | HW4 Due                               |
 | Tue, 11/18  | 22: Feedback Control Introduction                     |           | HW5 Released                          |
