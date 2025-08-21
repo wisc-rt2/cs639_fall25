@@ -11,15 +11,15 @@
 - **Instructor:** Mike Hagenow (mhagenow@wisc.edu)
 - **Instructor Office Hours:** Tuesdays and Thursdays at 12:15 PM – 1:15 PM
     - ABC (Anything But Class) Fridays 9:30 AM – 10:15 AM
-- **Instructor Office Location:** Morgridge Hall, Room TBD
-- **Peer Mentor (PM):** TBD
+- **Instructor Office Location:** Morgridge Hall, Room 6584
+<!-- - **Peer Mentor (PM):** TBD
 - **PM Office Hours:** TBD
-- **PM Office Location:** TBD
-- **Syllabus:** [pdf]
-- **Piazza Webpage (for discussion and notifications):** [Link](https://piazza.com/wisc/spring2025/cs639004/home)
-- **Piazza Signup:** [Link](https://piazza.com/wisc/spring2025/cs639004)
-- **Canvas:** Canvas
-- **Homework Submission:** Gradescope
+- **PM Office Location:** TBD -->
+<!-- - **Syllabus:** [pdf] -->
+- **Piazza Webpage (for discussion and notifications):** [Link](https://piazza.com/wisc/fall2025/cs639003/home)
+- **Piazza Signup:** [Link](https://piazza.com/wisc/fall2025/cs639003)
+<!-- - **Canvas:** Canvas -->
+<!-- - **Homework Submission:** Gradescope -->
 
 > **Note:** For email, please put **[CS639]** in the subject title. Thanks!
 
@@ -61,7 +61,7 @@ You are also welcome to come to office hours for individual discussion.
 Grading will be based on:
 
 - Participation (e.g., polls, responses, feedback): 5%
-- Programming Assignments: 50%
-- Midterm Exam: 25%
-- Final Project: 20%
+- Programming Assignments: 40%
+- Midterm Exam: 30%
+- Final Project: 25%
 
