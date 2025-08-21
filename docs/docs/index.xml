@@ -31,7 +31,7 @@
  &lt;/tr>
  &lt;tr>
  &lt;td>Tue, 9/9&lt;/td>
- &lt;td>2: Mechanism and Configuration Spaces&lt;/td>
+ &lt;td>2: Mechanisms and Configuration Spaces&lt;/td>
  &lt;td>&lt;/td>
  &lt;td>&lt;/td>
  &lt;/tr>
@@ -63,19 +63,19 @@
  &lt;td>Thu, 9/25&lt;/td>
  &lt;td>7: Forward Kinematics&lt;/td>
  &lt;td>&lt;/td>
- &lt;td>HW1 Due (5pm)&lt;/td>
+ &lt;td>&lt;/td>
  &lt;/tr>
  &lt;tr>
  &lt;td>Tue, 9/30&lt;/td>
  &lt;td>8: Forward Kinematics and URDFs&lt;/td>
  &lt;td>&lt;/td>
- &lt;td>HW2 Released&lt;/td>
+ &lt;td>HW1 Due (5pm)&lt;/td>
  &lt;/tr>
  &lt;tr>
  &lt;td>Thu, 10/2&lt;/td>
  &lt;td>9: Inverse Kinematics&lt;/td>
  &lt;td>&lt;/td>
- &lt;td>&lt;/td>
+ &lt;td>HW2 Released&lt;/td>
  &lt;/tr>
  &lt;tr>
  &lt;td>Tue, 10/7&lt;/td>
@@ -93,19 +93,19 @@
  &lt;td>Tue, 10/14&lt;/td>
  &lt;td>12: Sample-based Methods and Trajectory Optimization&lt;/td>
  &lt;td>&lt;/td>
- &lt;td>HW2 Due&lt;/td>
+ &lt;td>&lt;/td>
  &lt;/tr>
  &lt;tr>
  &lt;td>Thu, 10/16&lt;/td>
  &lt;td>13: Trajectory Optimization&lt;/td>
  &lt;td>&lt;/td>
- &lt;td>HW3 Released&lt;/td>
+ &lt;td>HW2 Due&lt;/td>
  &lt;/tr>
  &lt;tr>
  &lt;td>Tue, 10/21&lt;/td>
  &lt;td>14: Trajectory Optimization&lt;/td>
  &lt;td>&lt;/td>
- &lt;td>&lt;/td>
+ &lt;td>HW3 Released&lt;/td>
  &lt;/tr>
  &lt;tr>
  &lt;td>Thu, 10/23&lt;/td>
@@ -117,7 +117,7 @@
  &lt;td>Tue, 10/28&lt;/td>
  &lt;td>16: State Estimation Fundamentals&lt;/td>
  &lt;td>&lt;/td>
- &lt;td>HW3 Due&lt;/td>
+ &lt;td>&lt;/td>
  &lt;/tr>
  &lt;tr>
  &lt;td>Thu, 10/30&lt;/td>
@@ -129,7 +129,7 @@
  &lt;td>Tue, 11/4&lt;/td>
  &lt;td>18: Kalman Filters&lt;/td>
  &lt;td>&lt;/td>
- &lt;td>&lt;/td>
+ &lt;td>HW3 Due&lt;/td>
  &lt;/tr>
  &lt;tr>
  &lt;td>Thu, 11/6&lt;/td>
@@ -145,25 +145,25 @@
  &lt;/tr>
  &lt;tr>
  &lt;td>Thu, 11/13&lt;/td>
- &lt;td>21: Perception 2&lt;/td>
+ &lt;td>Midterm Exam&lt;/td>
  &lt;td>&lt;/td>
- &lt;td>HW4 Due&lt;/td>
+ &lt;td>HW4 Released&lt;/td>
  &lt;/tr>
  &lt;tr>
  &lt;td>Tue, 11/18&lt;/td>
- &lt;td>22: Feedback Control Introduction&lt;/td>
+ &lt;td>21: Feedback Control Introduction&lt;/td>
  &lt;td>&lt;/td>
- &lt;td>HW5 Released&lt;/td>
+ &lt;td>&lt;/td>
  &lt;/tr>
  &lt;tr>
  &lt;td>Thu, 11/20&lt;/td>
- &lt;td>23: PID Control&lt;/td>
+ &lt;td>22: PID Control&lt;/td>
  &lt;td>&lt;/td>
  &lt;td>&lt;/td>
  &lt;/tr>
  &lt;tr>
  &lt;td>Tue, 11/25&lt;/td>
- &lt;td>24: Modern Techniques – Diffusion and VLA Models&lt;/td>
+ &lt;td>23: Modern Techniques – Diffusion and VLA Models&lt;/td>
  &lt;td>&lt;/td>
  &lt;td>&lt;/td>
  &lt;/tr>
@@ -175,19 +175,19 @@
  &lt;/tr>
  &lt;tr>
  &lt;td>Tue, 12/2&lt;/td>
- &lt;td>25: Foundation Models - Discussion&lt;/td>
+ &lt;td>24: Foundation Models - Discussion&lt;/td>
  &lt;td>&lt;strong>Flipped Class&lt;/strong> – watch &lt;a href="https://shorturl.at/Kiexj">this&lt;/a> prior to class&lt;/td>
- &lt;td>HW5 Due&lt;/td>
+ &lt;td>HW4 Due&lt;/td>
  &lt;/tr>
  &lt;tr>
  &lt;td>Thu, 12/4&lt;/td>
- &lt;td>26: Guest Roboticist (TBD)&lt;/td>
+ &lt;td>25: Guest Roboticist (TBD)&lt;/td>
  &lt;td>&lt;/td>
  &lt;td>&lt;/td>
  &lt;/tr>
  &lt;tr>
  &lt;td>Tue, 12/9&lt;/td>
- &lt;td>27: Final Project Presentations&lt;/td>
+ &lt;td>26: Final Project Presentations&lt;/td>
  &lt;td>&lt;/td>
  &lt;td>&lt;/td>
  &lt;/tr>
