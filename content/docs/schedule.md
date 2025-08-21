@@ -23,12 +23,12 @@ weight: 2
 | Tue, 10/7   | 10: Intro to Planning and Graph-based Methods         |           |                                       |
 | Thu, 10/9   | 11: Sample-based Planning Methods                     |           |                                       |
 | Tue, 10/14  | 12: Sample-based Methods and Trajectory Optimization  |           |                                       |
-| Thu, 10/16  | 13: Trajectory Optimization                           |           | HW2 Due                               |
+| Thu, 10/16  | 13: Trajectory Optimization                           |           | HW2 Due (5pm)                          |
 | Tue, 10/21  | 14: Trajectory Optimization                           |           | HW3 Released                          |
 | Thu, 10/23  | 15: Hierarchy and FSMs                                |           | Final Project Released                |
 | Tue, 10/28  | 16: State Estimation Fundamentals                     |           |                                       |
 | Thu, 10/30  | 17: Bayes Filters                                     |           | HW4 Released                          |
-| Tue, 11/4   | 18: Kalman Filters                                    |           | HW3 Due                               |
+| Tue, 11/4   | 18: Kalman Filters                                    |           | HW3 Due (5pm)                         |
 | Thu, 11/6   | 19: Particle Filters                                  |           | Project Proposal Due                  |
 | Tue, 11/11  | 20: Perception 1                                      |           |                                       |
 | Thu, 11/13  | Midterm Exam                                          |           | HW4 Released                          |
@@ -36,7 +36,7 @@ weight: 2
 | Thu, 11/20  | 22: PID Control                                       |           |                                       |
 | Tue, 11/25  | 23: Modern Techniques – Diffusion and VLA Models      |           |                                       |
 | Thu, 11/27  | No Class. Happy Thanksgiving!                         |           |                                       |
-| Tue, 12/2   | 24: Foundation Models - Discussion                    | **Flipped Class** – watch <a href="https://shorturl.at/Kiexj">this</a> prior to class          | HW4 Due                               |
+| Tue, 12/2   | 24: Foundation Models - Discussion                    | **Flipped Class** – watch <a href="https://shorturl.at/Kiexj">this</a> prior to class          | HW4 Due (5pm)                              |
 | Thu, 12/4   | 25: Guest Roboticist (TBD)                            |           |                                       |
 | Tue, 12/9   | 26: Final Project Presentations                       |           |                                       |
 | Thu, 12/16  | Final Project Due                                     |           |                                       |
