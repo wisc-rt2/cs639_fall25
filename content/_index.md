@@ -10,7 +10,7 @@
 - **Location:** Morgridge Hall, Room 2538
 - **Instructor:** Mike Hagenow (mhagenow@wisc.edu)
 - **Instructor Office Hours:** Tuesdays and Thursdays at 12:15 PM – 1:15 PM
-    - ABC (Anything But Class) Fridays 9:30 AM – 10:15 AM
+    - ABC (Anything But Class) Fridays 9:30 AM – 10:00 AM
 - **Instructor Office Location:** Morgridge Hall, Room 6584
 <!-- - **Peer Mentor (PM):** TBD
 - **PM Office Hours:** TBD
