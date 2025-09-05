@@ -11,7 +11,7 @@ weight: 2
 
 | Date        | Lecture                                               | Resources | Notes                                 |
 |-------------|--------------------------------------------------------|-----------|---------------------------------------|
-| Thu, 9/4    | 1: Course Overview and ‘What is a Robot’              | N/A        |                                       |
+| Thu, 9/4    | [1: Course Overview and ‘What is a Robot’](https://drive.google.com/file/d/1cmQ6--_u4iUSh1u46t5s-vApfe7XK76I/view?usp=sharing)              | N/A        |                                       |
 | Tue, 9/9    | 2: Mechanisms and Configuration Spaces                 | MR 2.1-2.3, 2.5          |                                      |
 | Thu, 9/11   | 3: Rigid Body Motion - 2D and Rotation Matrices       | MR 3.1-3.2     | HW1 Released                          |
 | Tue, 9/16   | 4: Rigid Body Motion (3D) - Euler Angles, Axis-Angle, and Quaternions | MR 3.2, App. B   |                                  |
