@@ -14,11 +14,11 @@ weight: 2
 | Thu, 9/4    | [1: Course Overview and ‘What is a Robot’](https://drive.google.com/file/d/1cmQ6--_u4iUSh1u46t5s-vApfe7XK76I/view?usp=sharing)              | N/A        |                                       |
 | Tue, 9/9    | [2: Mechanisms and Configuration Spaces](https://drive.google.com/file/d/1yzPN53vMFrPtGckjmMJbU-0kcfkSHPmD/view?usp=sharing)                 | MR 2.1-2.3, 2.5          |                                      |
 | Thu, 9/11   | [3: Rigid Body Motion - 2D and Rotation Matrices](https://drive.google.com/file/d/12n-BXSgS8zPDU64RCwD0Y4aY3XjkX4_T/view?usp=sharing)       | MR 3.1-3.2     | [HW1 Released](https://drive.google.com/file/d/1BTf7kb2NMIz5frHMignMo4uc3b7s1OjF/view?usp=sharing)                          |
-| Tue, 9/16   | 4: Rigid Body Motion (3D) - Euler Angles, Axis-Angle, and Quaternions | MR 3.2, App. B   |                                  |
+| Tue, 9/16   | [4: Rigid Body Motion (3D) - Euler Angles, Axis-Angle, and Quaternions](https://drive.google.com/file/d/1-dqlIbpwp52Ejw4dKoBxmobe7P56vIH9/view?usp=sharing) | MR 3.2 & A.B, AR 2.4.4 B   |                                  |
 | Thu, 9/18   | 5: Rigid Body Motion (3D) - Transformations           | MR 3.3           |                                       |
-| Tue, 9/23   | 6: Forward Kinematics and DH Parameters               |           |                                       |
-| Thu, 9/25   | 7: Forward Kinematics                                 |           |                                       |
-| Tue, 9/30   | 8: Forward Kinematics and URDFs                       |           | HW1 Due (5pm)                         |
+| Tue, 9/23   | 6: Forward Kinematics and URDFs               | MR 4, 4.2          |                                       |
+| Thu, 9/25   | 7: Forward Kinematics and DH Parameters                                 |           |                                       |
+| Tue, 9/30   | 8: Forward Kinematics and Differential Kinematics                       |           | HW1 Due (5pm)                         |
 | Thu, 10/2   | 9: Inverse Kinematics                                 |           | HW2 Released                          |
 | Tue, 10/7   | 10: Intro to Planning and Graph-based Methods         |           |                                       |
 | Thu, 10/9   | 11: Sample-based Planning Methods                     |           |                                       |
