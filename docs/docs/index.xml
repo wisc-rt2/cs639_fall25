@@ -43,8 +43,8 @@
  &lt;/tr>
  &lt;tr>
  &lt;td>Tue, 9/16&lt;/td>
- &lt;td>4: Rigid Body Motion (3D) - Euler Angles, Axis-Angle, and Quaternions&lt;/td>
- &lt;td>MR 3.2, App. B&lt;/td>
+ &lt;td>&lt;a href="https://drive.google.com/file/d/1-dqlIbpwp52Ejw4dKoBxmobe7P56vIH9/view?usp=sharing">4: Rigid Body Motion (3D) - Euler Angles, Axis-Angle, and Quaternions&lt;/a>&lt;/td>
+ &lt;td>MR 3.2 &amp;amp; A.B, AR 2.4.4 B&lt;/td>
  &lt;td>&lt;/td>
  &lt;/tr>
  &lt;tr>
@@ -55,19 +55,19 @@
  &lt;/tr>
  &lt;tr>
  &lt;td>Tue, 9/23&lt;/td>
- &lt;td>6: Forward Kinematics and DH Parameters&lt;/td>
- &lt;td>&lt;/td>
+ &lt;td>6: Forward Kinematics and URDFs&lt;/td>
+ &lt;td>MR 4, 4.2&lt;/td>
  &lt;td>&lt;/td>
  &lt;/tr>
  &lt;tr>
  &lt;td>Thu, 9/25&lt;/td>
- &lt;td>7: Forward Kinematics&lt;/td>
+ &lt;td>7: Forward Kinematics and DH Parameters&lt;/td>
  &lt;td>&lt;/td>
  &lt;td>&lt;/td>
  &lt;/tr>
  &lt;tr>
  &lt;td>Tue, 9/30&lt;/td>
- &lt;td>8: Forward Kinematics and URDFs&lt;/td>
+ &lt;td>8: Forward Kinematics and Differential Kinematics&lt;/td>
  &lt;td>&lt;/td>
  &lt;td>HW1 Due (5pm)&lt;/td>
  &lt;/tr>
