@@ -49,55 +49,55 @@
  &lt;/tr>
  &lt;tr>
  &lt;td>Thu, 9/18&lt;/td>
- &lt;td>5: Quaternions and Rigid Body Motion (3D) - Transformations&lt;/td>
+ &lt;td>&lt;a href="https://drive.google.com/file/d/1x94kHirL8iJ_lWEb3RzOdVGphK2RNrBN/view?usp=sharing">5: Quaternions and Rigid Body Motion (3D) - Transformations&lt;/a>&lt;/td>
  &lt;td>MR A.B., AR 2.4.4 B, MR 3.3&lt;/td>
  &lt;td>&lt;/td>
  &lt;/tr>
  &lt;tr>
  &lt;td>Tue, 9/23&lt;/td>
- &lt;td>6: Forward Kinematics and URDFs&lt;/td>
- &lt;td>MR 4, 4.2&lt;/td>
+ &lt;td>6: More Examples and Rigid Body Motion&lt;/td>
+ &lt;td>MR A.B., AR 2.4.4 B, MR 3.3&lt;/td>
  &lt;td>&lt;/td>
  &lt;/tr>
  &lt;tr>
  &lt;td>Thu, 9/25&lt;/td>
- &lt;td>7: Forward Kinematics and DH Parameters&lt;/td>
- &lt;td>&lt;/td>
+ &lt;td>7: Forward Kinematics and URDFs&lt;/td>
+ &lt;td>MR 4, 4.2&lt;/td>
  &lt;td>&lt;/td>
  &lt;/tr>
  &lt;tr>
  &lt;td>Tue, 9/30&lt;/td>
- &lt;td>8: Forward Kinematics and Differential Kinematics&lt;/td>
+ &lt;td>8: Forward Kinematics and DH Parameters&lt;/td>
  &lt;td>&lt;/td>
  &lt;td>HW1 Due (5pm)&lt;/td>
  &lt;/tr>
  &lt;tr>
  &lt;td>Thu, 10/2&lt;/td>
- &lt;td>9: Inverse Kinematics&lt;/td>
+ &lt;td>9: Forward Kinematics and Differential Kinematics&lt;/td>
  &lt;td>&lt;/td>
  &lt;td>HW2 Released&lt;/td>
  &lt;/tr>
  &lt;tr>
  &lt;td>Tue, 10/7&lt;/td>
- &lt;td>10: Intro to Planning and Graph-based Methods&lt;/td>
+ &lt;td>10: Inverse Kinematics&lt;/td>
  &lt;td>&lt;/td>
  &lt;td>&lt;/td>
  &lt;/tr>
  &lt;tr>
  &lt;td>Thu, 10/9&lt;/td>
- &lt;td>11: Sample-based Planning Methods&lt;/td>
+ &lt;td>11: Intro to Planning and Graph-based Methods&lt;/td>
  &lt;td>&lt;/td>
  &lt;td>&lt;/td>
  &lt;/tr>
  &lt;tr>
  &lt;td>Tue, 10/14&lt;/td>
- &lt;td>12: Sample-based Methods and Trajectory Optimization&lt;/td>
+ &lt;td>12: Sample-based Planning Methods&lt;/td>
  &lt;td>&lt;/td>
  &lt;td>&lt;/td>
  &lt;/tr>
  &lt;tr>
  &lt;td>Thu, 10/16&lt;/td>
- &lt;td>13: Trajectory Optimization&lt;/td>
+ &lt;td>13: Sample-based Methods and Trajectory Optimization&lt;/td>
  &lt;td>&lt;/td>
  &lt;td>HW2 Due (5pm)&lt;/td>
  &lt;/tr>
@@ -147,13 +147,13 @@
  &lt;td>Thu, 11/13&lt;/td>
  &lt;td>Midterm Exam&lt;/td>
  &lt;td>&lt;/td>
- &lt;td>HW4 Released&lt;/td>
+ &lt;td>&lt;/td>
  &lt;/tr>
  &lt;tr>
  &lt;td>Tue, 11/18&lt;/td>
  &lt;td>21: Feedback Control Introduction&lt;/td>
  &lt;td>&lt;/td>
- &lt;td>&lt;/td>
+ &lt;td>HW4 Released&lt;/td>
  &lt;/tr>
  &lt;tr>
  &lt;td>Thu, 11/20&lt;/td>
