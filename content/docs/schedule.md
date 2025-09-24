@@ -17,7 +17,7 @@ weight: 2
 | Tue, 9/16   | [4: Rigid Body Motion (3D) - Euler Angles and Axis-Angle](https://drive.google.com/file/d/1-dqlIbpwp52Ejw4dKoBxmobe7P56vIH9/view?usp=sharing) | MR 3.2 & A.B, AR 2.4.4 B   |                                  |
 | Thu, 9/18   | [5: Quaternions and Rigid Body Motion (3D) - Transformations](https://drive.google.com/file/d/1x94kHirL8iJ_lWEb3RzOdVGphK2RNrBN/view?usp=sharing)           | MR A.B., AR 2.4.4 B, MR 3.3           |                                       |
 | Tue, 9/23   | [6: More Examples and Rigid Body Motion](https://drive.google.com/file/d/1WMWfsFCSJD_r2NGiMf2MueIBgA1LqOvd/view?usp=sharing)         | MR A.B., AR 2.4.4 B, MR 3.3                    |                                       |
-| Thu, 9/25   | 7: Forward Kinematics and URDFs               | MR 4, 4.2           |                                       |
+| Thu, 9/25   | [7: Forward Kinematics and URDFs](https://drive.google.com/file/d/1oDFmt5C7QDo2mVNBvB0rBaib7VFtV72H/view?usp=sharing)               | MR 4, 4.2           |                                       |
 | Tue, 9/30   | 8: Forward Kinematics and DH Parameters        |                     | HW1 Due (5pm)                         |
 | Thu, 10/2   | 9: Forward Kinematics and Differential Kinematics |                  | HW2 Released                          |
 | Tue, 10/7   | 10: Inverse Kinematics                         |                     |                                       |
