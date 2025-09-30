@@ -19,12 +19,12 @@ weight: 2
 | Tue, 9/23   | [6: More Examples and Rigid Body Motion](https://drive.google.com/file/d/1WMWfsFCSJD_r2NGiMf2MueIBgA1LqOvd/view?usp=sharing)         | MR A.B., AR 2.4.4 B, MR 3.3                    |                                       |
 | Thu, 9/25   | [7: Forward Kinematics and URDFs](https://drive.google.com/file/d/1oDFmt5C7QDo2mVNBvB0rBaib7VFtV72H/view?usp=sharing)               | MR 4, 4.2           |                                       |
 | Tue, 9/30   | [8: Forward Kinematics and DH Parameters](https://drive.google.com/file/d/1eyhQMCUZHZEwjHVpSbp025fa84goo-AG/view?usp=sharing)        | MR A.C                    | HW1 Due (5pm)                         |
-| Thu, 10/2   | 9: Forward Kinematics and Differential Kinematics |                  | HW2 Released                          |
-| Tue, 10/7   | 10: Inverse Kinematics                         |                     |                                       |
+| Thu, 10/2   | 9: Forward Kinematics and Differential Kinematics |                  |                           |
+| Tue, 10/7   | 10: Inverse Kinematics                         |                     |   HW2 Released                                    |
 | Thu, 10/9   | 11: Intro to Planning and Graph-based Methods  |                     |                                       |
 | Tue, 10/14  | 12: Sample-based Planning Methods              |                     |                                       |
-| Thu, 10/16  | 13: Sample-based Methods and Trajectory Optimization |              | HW2 Due (5pm)                         |
-| Tue, 10/21  | 14: Trajectory Optimization                    |                     | HW3 Released                          |
+| Thu, 10/16  | 13: Sample-based Methods and Trajectory Optimization |              |                          |
+| Tue, 10/21  | 14: Trajectory Optimization                    |                     | HW2 Due (5pm), HW3 Released                          |
 | Thu, 10/23  | 15: Hierarchy and FSMs                         |                     | Final Project Released                |
 | Tue, 10/28  | 16: State Estimation Fundamentals              |                     |                                       |
 | Thu, 10/30  | 17: Bayes Filters                              |                     |                                       |
