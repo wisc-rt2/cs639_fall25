@@ -21,7 +21,7 @@ weight: 2
 | Tue, 9/30   | [8: Forward Kinematics and DH Parameters](https://drive.google.com/file/d/1eyhQMCUZHZEwjHVpSbp025fa84goo-AG/view?usp=sharing)        | MR A.C                    | HW1 Due (5pm)                         |
 | Thu, 10/2   | [9: Forward Kinematics and Differential Kinematics](https://drive.google.com/file/d/1g2fgg4UNK6qYk-pufD4KWZXqfRxEj1x2/view?usp=sharing) | MR 5.0, AR 3.3, Spong Robot Modeling and Control Ch 4                 |                           |
 | Tue, 10/7   | [10: Inverse Kinematics](https://drive.google.com/file/d/1z8lfRbICemB798c50vSlhTyW2iIGzIEK/view?usp=sharing)                         | MR 6, 6.2, AR 3.4                    |   [HW2 Released](https://drive.google.com/file/d/1jGnUvFdJpa9y4fOm8zA_Fzk-2R9d920G/view?usp=sharing)                                    |
-| Thu, 10/9   | 11: Intro to Planning and Graph-based Methods  |                     |                                       |
+| Thu, 10/9   | [11: Intro to Planning and Graph-based Methods](https://drive.google.com/file/d/105UPhTsU3GSjSe0RJDfvyRwoct7-CKwV/view?usp=sharing)  |  MR 10.2                   |                                       |
 | Tue, 10/14  | 12: Sample-based Planning Methods              |                     |                                       |
 | Thu, 10/16  | 13: Sample-based Methods and Trajectory Optimization |              |                          |
 | Tue, 10/21  | 14: Trajectory Optimization                    |                     | HW2 Due (5pm), HW3 Released                          |
