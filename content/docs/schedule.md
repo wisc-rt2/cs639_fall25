@@ -22,8 +22,8 @@ weight: 2
 | Thu, 10/2   | [9: Forward Kinematics and Differential Kinematics](https://drive.google.com/file/d/1g2fgg4UNK6qYk-pufD4KWZXqfRxEj1x2/view?usp=sharing) | MR 5.0, AR 3.3, Spong Robot Modeling and Control Ch 4                 |                           |
 | Tue, 10/7   | [10: Inverse Kinematics](https://drive.google.com/file/d/1z8lfRbICemB798c50vSlhTyW2iIGzIEK/view?usp=sharing)                         | MR 6, 6.2, AR 3.4                    |   [HW2 Released](https://drive.google.com/file/d/1jGnUvFdJpa9y4fOm8zA_Fzk-2R9d920G/view?usp=sharing)                                    |
 | Thu, 10/9   | [11: Intro to Planning and Graph-based Methods](https://drive.google.com/file/d/105UPhTsU3GSjSe0RJDfvyRwoct7-CKwV/view?usp=sharing)  |  MR 10.2                   |                                       |
-| Tue, 10/14  | 12: Sample-based Planning Methods              |                     |                                       |
-| Thu, 10/16  | 13: Sample-based Methods and Trajectory Optimization |              |                          |
+| Tue, 10/14  | [12: Sample-based Planning Methods](https://drive.google.com/file/d/1nGOGAMsYsQJbO_izBiaVhVTT38ZyFsQP/view?usp=sharing)              |  MR 10.5                   |                                       |
+| Thu, 10/16  | 13: Trajectory Generation and Trajectory Optimization | MR 9.1-9.3              |                          |
 | Tue, 10/21  | 14: Trajectory Optimization                    |                     | HW2 Due (5pm), HW3 Released                          |
 | Thu, 10/23  | 15: Hierarchy and FSMs                         |                     | Final Project Released                |
 | Tue, 10/28  | 16: State Estimation Fundamentals              |                     |                                       |
