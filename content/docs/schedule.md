@@ -24,8 +24,8 @@ weight: 2
 | Thu, 10/9   | [11: Intro to Planning and Graph-based Methods](https://drive.google.com/file/d/105UPhTsU3GSjSe0RJDfvyRwoct7-CKwV/view?usp=sharing)  |  MR 10.2                   |                                       |
 | Tue, 10/14  | [12: Sample-based Planning Methods](https://drive.google.com/file/d/1nGOGAMsYsQJbO_izBiaVhVTT38ZyFsQP/view?usp=sharing)              |  MR 10.5                   |                                       |
 | Thu, 10/16  | [13: Trajectory Generation and Trajectory Optimization](https://drive.google.com/file/d/1vpyROeWJXrWbQGSBSVMpi9BxxV7aEyTB/view?usp=sharing) | MR 9.1-9.3              |                          |
-| Tue, 10/21  | 14: Trajectory Optimization                    |                     | HW2 Due (5pm), HW3 Released                          |
-| Thu, 10/23  | 15: Hierarchy and FSMs (and Project Introduction)                         |                     | Final Project Released                |
+| Tue, 10/21  | 14: Trajectory Optimization                    | [Matthew Kelley's Trajectory Optimization Tutorials](https://www.matthewpeterkelly.com/tutorials/trajectoryOptimization/index.html)                    | HW2 Due (5pm), HW3 Released                          |
+| Thu, 10/23  | 15: Hierarchy and FSMs (and Project Introduction)                         | AR 11.2-11.4                    | Final Project Released                |
 | Tue, 10/28  | 16: State Estimation Fundamentals              |                     |                                       |
 | Thu, 10/30  | 17: Bayes Filters                              |                     |                                       |
 | Tue, 11/4   | 18: Kalman Filters (and Midterm Discussion)                             |                     | HW3 Due (5pm)                         |
