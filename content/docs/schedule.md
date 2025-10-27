@@ -26,11 +26,11 @@ weight: 2
 | Thu, 10/16  | [13: Trajectory Generation and Trajectory Optimization](https://drive.google.com/file/d/1vpyROeWJXrWbQGSBSVMpi9BxxV7aEyTB/view?usp=sharing) | MR 9.1-9.3              |                          |
 | Tue, 10/21  | [14: Trajectory Optimization](https://drive.google.com/file/d/13518vXYYW2qxX96wXxtCLbvu9hoinM8Z/view?usp=sharing)                    | [Matthew Kelley's Trajectory Optimization Tutorials](https://www.matthewpeterkelly.com/tutorials/trajectoryOptimization/index.html)                    | HW2 Due (5pm), [HW3 Released](https://drive.google.com/file/d/1hOn2h08iPt_FkqqL3iw9joe1ZaICEJA3/view?usp=sharing)                          |
 | Thu, 10/23  | [15: Hierarchy and FSMs (and Project Introduction)](https://drive.google.com/file/d/1Unqa3KOPfuUC9H187IRajhiGcOCje4ip/view?usp=sharing)                         | AR 11.2-11.4                    | [Final Project Released](https://drive.google.com/file/d/1Y4amvcqTkqFIv1wdwHZLosi0FVkDFYv-/view?usp=sharing)                |
-| Tue, 10/28  | 16: State Estimation Fundamentals              |                     |                                       |
-| Thu, 10/30  | 17: Bayes Filters                              |                     |                                       |
-| Tue, 11/4   | 18: Kalman Filters (and Midterm Discussion)                             |                     | HW3 Due (5pm)                         |
-| Thu, 11/6   | 19: Particle Filters                           |                     | Project Proposal Due (5pm)            |
-| Tue, 11/11  | 20: Perception 1                               |                     |                                       |
+| Tue, 10/28  | [16: Perception](https://drive.google.com/file/d/1i4L6LXdTv8jQrEu3oZQoAlQYdt-PGZaC/view?usp=sharing)              | AR 7.1, 8                    |                                       |
+| Thu, 10/30  | 17: Uncertainty and State Estimation Fundamentals                              |                     |                                       |
+| Tue, 11/4   | 18: Bayes Filters                             |                     | HW3 Due (5pm)                         |
+| Thu, 11/6   | 19: Kalman Filters (and Midterm Discussion)                           |                     | Project Proposal Due (5pm)            |
+| Tue, 11/11  | 20: Particle Filters                               |                     |                                       |
 | Thu, 11/13  | Midterm Exam                                   |                     |                                       |
 | Tue, 11/18  | 21: Feedback Control Introduction              |                     | HW4 Released                                      |
 | Thu, 11/20  | 22: PID Control                                |                     |                                       |

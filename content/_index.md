@@ -36,11 +36,11 @@ Previous programming experience is required. Students entering this class are ex
 
 ## Recommended Textbooks
 
-None of the textbooks are required, though you may find them helpful to aid in your learning. All of the texbooks are available for free online.
+None of the textbooks are required, though you may find them helpful to aid in your learning. The first two textbooks are available online for free. The third textbook (just used for the state estimation lectures) has availble online resources.
 
 - [*Modern Robotics*](https://hades.mech.northwestern.edu/images/2/25/MR-v2.pdf)<br>Lynch and Park
 - [*Introduction to Autonomous Robots: Mechanisms, Sensors, Actuators, and Algorithms*](https://github.com/Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots)<br>Correll, Hayes, Heckman, and Roncone
-<!--- *Probabilistic Robotics*, Thrun, Burgard, and Fox-->
+- *Probabilistic Robotics*, Thrun, Burgard, and Fox
 
 
 ## Discussion Forum
