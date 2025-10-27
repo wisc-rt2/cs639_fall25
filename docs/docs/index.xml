@@ -115,31 +115,31 @@
  &lt;/tr>
  &lt;tr>
  &lt;td>Tue, 10/28&lt;/td>
- &lt;td>16: State Estimation Fundamentals&lt;/td>
- &lt;td>&lt;/td>
+ &lt;td>&lt;a href="https://drive.google.com/file/d/1i4L6LXdTv8jQrEu3oZQoAlQYdt-PGZaC/view?usp=sharing">16: Perception&lt;/a>&lt;/td>
+ &lt;td>AR 7.1, 8&lt;/td>
  &lt;td>&lt;/td>
  &lt;/tr>
  &lt;tr>
  &lt;td>Thu, 10/30&lt;/td>
- &lt;td>17: Bayes Filters&lt;/td>
+ &lt;td>17: Uncertainty and State Estimation Fundamentals&lt;/td>
  &lt;td>&lt;/td>
  &lt;td>&lt;/td>
  &lt;/tr>
  &lt;tr>
  &lt;td>Tue, 11/4&lt;/td>
- &lt;td>18: Kalman Filters (and Midterm Discussion)&lt;/td>
+ &lt;td>18: Bayes Filters&lt;/td>
  &lt;td>&lt;/td>
  &lt;td>HW3 Due (5pm)&lt;/td>
  &lt;/tr>
  &lt;tr>
  &lt;td>Thu, 11/6&lt;/td>
- &lt;td>19: Particle Filters&lt;/td>
+ &lt;td>19: Kalman Filters (and Midterm Discussion)&lt;/td>
  &lt;td>&lt;/td>
  &lt;td>Project Proposal Due (5pm)&lt;/td>
  &lt;/tr>
  &lt;tr>
  &lt;td>Tue, 11/11&lt;/td>
- &lt;td>20: Perception 1&lt;/td>
+ &lt;td>20: Particle Filters&lt;/td>
  &lt;td>&lt;/td>
  &lt;td>&lt;/td>
  &lt;/tr>
