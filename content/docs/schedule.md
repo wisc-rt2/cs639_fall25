@@ -28,8 +28,8 @@ weight: 2
 | Thu, 10/23  | [15: Hierarchy and FSMs (and Project Introduction)](https://drive.google.com/file/d/1Unqa3KOPfuUC9H187IRajhiGcOCje4ip/view?usp=sharing)                         | AR 11.2-11.4                    | [Final Project Released](https://drive.google.com/file/d/1Y4amvcqTkqFIv1wdwHZLosi0FVkDFYv-/view?usp=sharing)                |
 | Tue, 10/28  | [16: Perception](https://drive.google.com/file/d/1PJh24CIB3PES7ZyIbWl3QwIcdbj-46Q2/view?usp=sharing)              | AR 7.1, 8                    |                                       |
 | Thu, 10/30  | [17: Uncertainty and State Estimation Fundamentals](https://drive.google.com/file/d/1IITJKNSvu-qFfsUfNeEXdBYA5FD8OMQU/view?usp=sharing)                              |                     |                                       |
-| Tue, 11/4   | 18: Bayes Filters                             |                     | HW3 Due (5pm)                         |
-| Thu, 11/6   | 19: Kalman Filters (and Midterm Discussion)                           |                     | Project Proposal Due (5pm)            |
+| Tue, 11/4   | [18: Bayes Filters](https://drive.google.com/file/d/10_SsBtwjNWdkUlcsBlXZg1VRYsSx-r_x/view?usp=sharing)                             |                     | HW3 Due (5pm)                         |
+| Thu, 11/6   | 19: Kalman Filters (and Midterm Discussion)                           | [Midterm Instructions & Practice](https://drive.google.com/file/d/1I5l4ysTa5aMLjQ6R-KOMyAh1foX02S9f/view?usp=sharing)                    | Project Proposal Due (5pm)            |
 | Tue, 11/11  | 20: Particle Filters                               |                     |                                       |
 | Thu, 11/13  | Midterm Exam                                   |                     |                                       |
 | Tue, 11/18  | 21: Feedback Control Introduction              |                     | HW4 Released                                      |
