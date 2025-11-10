@@ -31,13 +31,13 @@ You can find homework solutions on Canvas.
 | Thu, 10/30  | [17: Uncertainty and State Estimation Fundamentals](https://drive.google.com/file/d/1IITJKNSvu-qFfsUfNeEXdBYA5FD8OMQU/view?usp=sharing)                              | PR 2.2-2.3                    |                                       |
 | Tue, 11/4   | [18: Bayes Filters](https://drive.google.com/file/d/10_SsBtwjNWdkUlcsBlXZg1VRYsSx-r_x/view?usp=sharing)                             | PR 2.4                    | HW3 Due (5pm)                         |
 | Thu, 11/6   | [19: Kalman Filters (and Midterm Discussion)](https://drive.google.com/file/d/1LQd9VE5Nznti2-kRXTCB7znCKsR7-xrz/view?usp=sharing)                           | PR 3.2-3.3                   | Project Proposal Due (5pm), [Midterm Instructions & Practice](https://drive.google.com/file/d/1I5l4ysTa5aMLjQ6R-KOMyAh1foX02S9f/view?usp=sharing)             |
-| Tue, 11/11  | 20: Particle Filters                               | [PF code](https://drive.google.com/file/d/11hIzXgTiYVdNObwcw5_FQZ3_lUWBFyAo/view?usp=sharing)                    |                                       |
+| Tue, 11/11  | [20: Particle Filters](https://drive.google.com/file/d/1qsho3uvQfZC3pBQAQ_h-8dhnugqnpCzn/view?usp=sharing)                               | PR 4.2, 10.1 [PF code](https://drive.google.com/file/d/11hIzXgTiYVdNObwcw5_FQZ3_lUWBFyAo/view?usp=sharing)                    |                                       |
 | Thu, 11/13  | Midterm Exam                                   |                     |                                       |
 | Tue, 11/18  | 21: Feedback Control Introduction              |                     | HW4 Released                                      |
 | Thu, 11/20  | 22: PID Control                                |                     |                                       |
 | Tue, 11/25  | 23: Modern Techniques – Diffusion and VLA Models |                   |                                       |
 | Thu, 11/27  | No Class. Happy Thanksgiving!                  |                     |                                       |
-| Tue, 12/2   | 24: Foundation Models - Discussion             | **Flipped Class** – watch <a href="https://shorturl.at/Kiexj">this</a> prior to class | HW4 Due (5pm) |
+| Tue, 12/2   | 24: Foundation Models - Discussion             | **Flipped Class** – watch <a href="https://youtu.be/ojutZEaKvfY?si=-wFdWTvEs0P-hN4x">this</a> prior to class | HW4 Due (5pm) |
 | Thu, 12/4   | 25: Guest Roboticist: [Jason Ma](https://jasonma2016.github.io/) | |                                       |
 | Tue, 12/9   | 26: Final Project Presentations                |                     |                                       |
 | Thu, 12/16  | Final Project Due                              |                     |                                       |
