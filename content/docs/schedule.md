@@ -34,7 +34,7 @@ You can find homework solutions on Canvas.
 | Tue, 11/11  | [20: Particle Filters](https://drive.google.com/file/d/1qsho3uvQfZC3pBQAQ_h-8dhnugqnpCzn/view?usp=sharing)                               | PR 4.2, 10.1 [PF code](https://drive.google.com/file/d/11hIzXgTiYVdNObwcw5_FQZ3_lUWBFyAo/view?usp=sharing)                    |                                       |
 | Thu, 11/13  | Midterm Exam                                   |                     |                                       |
 | Tue, 11/18  | [21: Feedback Control Introduction](https://drive.google.com/file/d/1zibuBvweo9q1ZVyoui8UuC_BZnS9ELe3/view?usp=sharing)              | MR 11.1-11.2                    | [HW4 Released](https://drive.google.com/file/d/114Gzl7t5N8HpXzQs8CfYbu6UV5ciLeKK/view?usp=sharing)                                      |
-| Thu, 11/20  | 22: PID Control                                |                     |                                       |
+| Thu, 11/20  | [22: PID Control](https://drive.google.com/file/d/1WSJkRhirR6pVqzM1mmq9WBUSUcflS4Xl/view?usp=sharing)                                | MR 11.2 [Controls Code](https://drive.google.com/file/d/1eqWvp7tTL_BjVCyGoygnwavRopkIUTwC/view?usp=sharing)                    |                                       |
 | Tue, 11/25  | 23: Modern Techniques – Diffusion and VLA Models |                   |                                       |
 | Thu, 11/27  | No Class. Happy Thanksgiving!                  |                     |                                       |
 | Tue, 12/2   | 24: Foundation Models - Discussion             | **Flipped Class** – watch <a href="https://youtu.be/ojutZEaKvfY?si=-wFdWTvEs0P-hN4x">this</a> prior to class |  |
