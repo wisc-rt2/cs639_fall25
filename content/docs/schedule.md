@@ -35,9 +35,9 @@ You can find homework solutions on Canvas.
 | Thu, 11/13  | Midterm Exam                                   |                     |                                       |
 | Tue, 11/18  | [21: Feedback Control Introduction](https://drive.google.com/file/d/1zibuBvweo9q1ZVyoui8UuC_BZnS9ELe3/view?usp=sharing)              | MR 11.1-11.2                    | [HW4 Released](https://drive.google.com/file/d/114Gzl7t5N8HpXzQs8CfYbu6UV5ciLeKK/view?usp=sharing)                                      |
 | Thu, 11/20  | [22: PID Control](https://drive.google.com/file/d/1WSJkRhirR6pVqzM1mmq9WBUSUcflS4Xl/view?usp=sharing)                                | MR 11.2 [Controls Code](https://drive.google.com/file/d/1eqWvp7tTL_BjVCyGoygnwavRopkIUTwC/view?usp=sharing)                    |                                       |
-| Tue, 11/25  | 23: Modern Techniques – Diffusion and VLA Models |                   |                                       |
+| Tue, 11/25  | [23: Modern Techniques – Diffusion and VLA Models](https://drive.google.com/file/d/1jhHOqko_cajw8p7H7Ha7pATfOdV_Cu7g/view?usp=sharing) | [SayCan](https://say-can.github.io/), [Diffusion Policy](https://diffusion-policy.cs.columbia.edu/), [OpenVLA](https://openvla.github.io/)                   |                                       |
 | Thu, 11/27  | No Class. Happy Thanksgiving!                  |                     |                                       |
-| Tue, 12/2   | 24: Foundation Models - Discussion             | **Flipped Class** – watch <a href="https://youtu.be/ojutZEaKvfY?si=-wFdWTvEs0P-hN4x">this</a> prior to class |  |
+| Tue, 12/2   | 24: Foundation Models - Discussion             | **Flipped Class** – watch <a href="https://www.youtube.com/watch?v=4-VzXoZqAH0">this</a> prior to class. Micro Canvas Assignment! |  |
 | Thu, 12/4   | 25: Guest Roboticist: [Jason Ma](https://jasonma2016.github.io/) | |  HW4 Due (5pm)                                     |
 | Tue, 12/9   | 26: Final Project Presentations                |                     |                                       |
 | Thu, 12/16  | Final Project Due                              |                     |                                       |
